@@ -1,0 +1,1 @@
+To Run the project just unzip the build.zip then run the index.html file to open up the app
